@@ -1,0 +1,14 @@
+<?php
+	$_SESSION['count']=1;
+	$_SESSION['q_count']=5;
+	$_SESSION['clq_count']=0;
+	$_SESSION['cmq_count']=0;
+	$_SESSION['chq_count']=0;
+	$_SESSION['mlq_count']=2;
+	$_SESSION['mmq_count']=2;
+	$_SESSION['mhq_count']=1;
+	$_SESSION['correct']="";
+	$_SESSION['type']="";
+	$_SESSION['next']=1;
+	$_SESSION['score']=0;
+?>
