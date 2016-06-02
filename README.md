@@ -8,4 +8,3 @@ I have used PHP and MySQL for the backend.
 
 Adaptive learning can have different interpretations. This is my interpretation.
 
-Live Demo can be found here at: http://tarahtech.com/adaptive/
